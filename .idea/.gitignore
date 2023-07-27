@@ -7,3 +7,18 @@
 /dataSources/
 /dataSources.local.xml
 /.idea/
+# Default ignored files
+*.idea
+*/target/*
+*/out/*
+*.iml
+*/.settings/*
+/.metadata/
+*.classpath
+*.project
+*.prefs
+*.component
+*.jsdtscope
+*.container
+*.name
+.DS_Store

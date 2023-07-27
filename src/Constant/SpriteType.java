@@ -5,7 +5,7 @@ public enum SpriteType {
     BACKGROUND,
     OBSTRUCTION,
 
-    CHARACTER,
+    PLAYER,
     NPC,
     ENEMY,
 
